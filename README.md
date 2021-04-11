@@ -1,4 +1,5 @@
 # Rubik-s-cube
+![alt text](https://github.com/aminebechrifa/Rubik-s-cube/blob/main/Demo_Rubik's_Cube.gif "Logo Title Text 1")
 <h1>The First Menu :</h1>
 <p>This is the very first interface of the game, also the first
 impression one will have. This menu has the name of the game
@@ -30,6 +31,18 @@ Once the cube or button clicked one has access to the game
 <h1>THE GAME</h1>
 <p>Once one has chosen the theme of the Rubik’s cube, the
 user is directed to the final scene.<p><br>
+  <h3>To play the Rubik's cube:</h3>
+<p>One can rotate the rubik’s cube using the mouse and clicking on the right button.
+There are 2 arrows that define in which axis the rotation of the face is possible .
+These two arrows can be set using the keyboard. The left/right arrow control the arrow on the
+top of the cube and the WASD control the arrow on the left of the cube. While pointing to a
+location, an arrow allows to show in which direction the next move is possible. The actual
+movement of the face will be possible according to the arrow position using the G, H to rotate
+along the y axis (positive and negative). Also J and K keys rotate along the Z axis and N and M
+to rotate along the X axis.
+One can shuffle the cube and see how this is done thanks to an animation.
+One can click on a button to see the Rubik's cube being solved.
+There is a timer that can be controlled thanks to 4 buttons</p>
 <h3>The Decor of the Game :</h3>
 <p>Half of the scene is made for the buttons and the timer as well
 as the helper board containing the 6 images of the rubik's
@@ -80,7 +93,7 @@ the opposite direction stored thus sorting the cube</p>
 <h4>The Exit button :</h4>
 <p>This button is to be clicked using the mouse, it redirects the user to the second menu where he
 can choose another theme.</p>
-<h4>The Rubik's Cube :</h4>
+<h3>The Rubik's Cube :</h3>
 <p>The cube itself is created by 57 small cubes .
 A class has been created for the Rubik’s cube as a whole and a second for the small cube
 composing it.
@@ -136,4 +149,4 @@ the model of that animal appearing. These animals are in reality 3d object that 
 loaded and textured.<br>
 Also finishing the world rubik's cube, one can see the planet earth
 appearing and taking the place of the rubik's cube
-
+</p>
