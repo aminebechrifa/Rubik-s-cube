@@ -1,13 +1,13 @@
 # Rubik-s-cube
 ![alt text](https://github.com/aminebechrifa/Rubik-s-cube/blob/main/Demo_Rubik's_Cube.gif "Logo Title Text 1")
-<h1>The First Menu :</h1>
+<h3>The First Menu :</h3>
 <p>This is the very first interface of the game, also the first
 impression one will have. This menu has the name of the game
 and shows a Rubik's cube with an animation as well as 2
 buttons offering the possibility to start a new game or resume
 an old one.</p>
 <br><br>
-<h1>The Second Menu :</h1>
+<h3>The Second Menu :</h3>
 <p>This second menu offers the possibility to choose a theme for
 the Rubik's cube one will be playing. The menu contains a title
 as well as an explanation and 4 buttons containing the name
